@@ -13,13 +13,13 @@
 ### :man_technologist: Acerca de mí :
 Soy Data Engineer | Data Developer de Perú.
 <pre>
-💻 Estoy desarrollando mis habilidades como Data Engineer | Entusiasta de nuevas tecnologías.
-📚 Soy Bachiller en Ingeniería de Sistemas.
-📝 Tengo un gran interés por seguir aprendiendo nuevas tecnologias.
-🔭 Estoy trabajando en automatizar procesos ETL.
-🌱 Me estoy enfocando en aprender mas sobre tecnologias de Big Data.
-🌟 Lenguajes principales: Python, Scala.
-🚩 Interesado en el procesamiento de grandes volumenes de datos.
+💻 Estoy desarrollando mis habilidades como Data Engineer y soy un entusiasta de nuevas tecnologías.
+📚 Soy bachiller en Ingeniería de Sistemas.
+📝 Tengo un gran interés en seguir aprendiendo sobre nuevas tecnologías.
+🔭 Estoy trabajando en la automatización de procesos ETL.
+🌱 Me estoy enfocando en aprender más sobre tecnologías de Big Data.
+🌟 Mis lenguajes principales son Python y Scala.
+🚩 Estoy interesado en el procesamiento de grandes volúmenes de datos.
 </pre>
 
 ### 🛠 &nbsp;Tech Stack
